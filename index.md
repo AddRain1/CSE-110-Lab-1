@@ -24,4 +24,4 @@ My top 3 favorite foods:
 
 I made this web page using [GitHub Pages](https://pages.github.com/).
 
-You can go back to the beginning by clicking [this](#about-me).
+You can go to the About Me section by clicking [this](#about-me).
